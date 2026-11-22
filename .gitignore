@@ -1,0 +1,10 @@
+# Local test files & unrelated media
+測試用程式碼.txt
+*.png
+*.jpg
+*.jpeg
+
+# OS & Editor artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
